@@ -1,3 +1,5 @@
 # Streamlits
-Streamlit apps
-Starting with "Hello, World"
+
+Streamlit apps.
+
+Starting with "Hello, World".
